@@ -8,7 +8,7 @@ def mult(x,y):
 def div(x,y):
     print("div of two no.:", x/y)
 def remnd(x,y):
-    print('remender of two no. is:', x%y)
+    print('remender of one no. is:', x%y)
 
 
 x=int(input('enter the first no.\n'))
